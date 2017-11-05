@@ -1,5 +1,19 @@
 # Jimusido
 
+.. toctree::
+    :maxdepth: 1
+    :numbered:
+    :glob:
+
+    01
+    02
+    03
+    04
+    05
+    06
+    07
+    08
+
 .. contents::
 
 =======
