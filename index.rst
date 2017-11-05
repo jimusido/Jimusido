@@ -6,7 +6,7 @@
 `最初に <../../slide/_build/html/index.html>`_
 
 
-内容
+目次
 ====
 .. toctree::
     :maxdepth: 1
