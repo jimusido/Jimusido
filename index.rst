@@ -1,9 +1,10 @@
 # Jimusido
 
 .. toctree::
-   maxdepth: 2
-   
-.. contents::
+   :numbered:
+   
+   融資事務
+   割引
 
 融資事務
 ********************
