@@ -3,7 +3,7 @@
 ==============
 
 
-`最初に <../../../slide/_build/html/index.html>`_
+`最初に <../../slide/_build/html/index.html>`_
 
 
 内容
